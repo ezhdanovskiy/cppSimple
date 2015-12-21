@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+# Directories
+build
+.idea
+
+# Tmp files
+*.*~
+
